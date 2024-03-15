@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raj3451
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning java fullstack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Rajasekhar3451@outlook.com
 
