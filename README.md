@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Raj3451
+- 👋 Hi, I’m Rajasekhar
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning java fullstack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data science
+- 💞️ I’m looking to collaborate on  AI and ML projects
 - 📫 How to reach me Rajasekhar3451@outlook.com
 
 <!---
